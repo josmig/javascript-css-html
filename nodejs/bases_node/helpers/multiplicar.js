@@ -1,7 +1,7 @@
 //file system
 const fs = require('fs');
 
-const crearOperacion = async (base = 5) => {
+const crearOperacion = async (base = 8) => {
 
     try {
         console.log('=================');
